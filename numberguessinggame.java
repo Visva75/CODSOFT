@@ -14,7 +14,7 @@ public class Numberguessinggame {
         while (playAgain) {
             int targetNumber = random.nextInt(100) + 1;
             int attempts = 0;
-            int maxAttempts = 10;
+            int maxAttempts = 5;
 
             System.out.println("I have selected a number between 1 and 100. Can you guess it?");
 
