@@ -1,10 +1,12 @@
-# CODSOFT
-CODSOFT repo 
-task 1 - number guessing game 
-         (It should choose a random number between 1 and 100, then challenge the player to guess the number in 5 turns. After each turn the player should be told if they are right or wrong, and if they are wrong, 
-         whether the guess was too low or too high. It should also tell the player what numbers they previously guessed.)
+Welcome to the CodSoft Java Development Internship repository! This repository documents my progress and assignments during my internship journey. Here, I'll be working on a set of tasks to enhance my skills and knowledge in Java development.
 
-
-         
-task 2 -Student grade calculator
-          (it get input from students such as Name,Department,No of Subjecrs,marks and produce average marks percentage,grade based on there performance )
+Tasks Overview
+Task 1: Number Guessing Game
+Generate random numbers, prompt user guesses, and provide feedback.
+Allow multiple rounds and calculate scores.
+Task 2: Student Grade Calculator
+Calculate total marks and average percentage.
+Assign grades and display results.
+Task 3: ATM Interface
+Create an ATM class with withdraw, deposit, and checkBalance methods.
+Implement input validation and connect with user's bank account.
